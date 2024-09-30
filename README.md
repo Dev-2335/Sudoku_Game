@@ -50,5 +50,5 @@ To run this game locally, follow these steps:
 4. If the number is incorrect, an error will be recorded, and the error counter will increase.
 
 ## Screenshots
-![Sudoku Game Screenshot](![Sudoku](https://github.com/user-attachments/assets/898c98a6-57a2-49a9-a78d-e674bf691352)
+![Sudoku_Game_Screenshot](https://github.com/user-attachments/assets/898c98a6-57a2-49a9-a78d-e674bf691352)
 
