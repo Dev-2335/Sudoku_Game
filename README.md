@@ -29,7 +29,7 @@ To run this game locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/sudoku.git
+    git clone https://github.com/Dev-2335/Sudoku_Game.git
     ```
 
 2. Navigate to the project directory:
